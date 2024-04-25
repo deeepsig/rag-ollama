@@ -1,6 +1,6 @@
 # RAG Using LangChain, ChromaDB, Ollama and Gemma 7b
 
-![QA_RAG](https://github.com/Mr-DG-Wick/rag-ollama/assets/81250703/de18df3d-039c-4fcd-94cd-35cfdf54930a)
+![QA_RAG](https://github.com/deeepsig/rag-ollama/assets/81250703/de18df3d-039c-4fcd-94cd-35cfdf54930a)
 
 ## About
 
